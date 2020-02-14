@@ -1,4 +1,4 @@
-export const pathUrl = 'http://guiasertao.com.br';
+export const pathUrl = 'http://52.15.117.231:3000';
 
 export const fs = import("fs");
 

@@ -11,7 +11,7 @@ export const dbconfig: TypeOrmModuleOptions = {
     host: "localhost",
     port: 3306,
     username: "root",
-    password: "",
+    password: "360810@123",
     database: "guiasertao",
     entities: [
         User, 
