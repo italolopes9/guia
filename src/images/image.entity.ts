@@ -14,7 +14,7 @@ export class ImageEntity {
     @Column()
     url: string;
 
-    @Column()
+    @Column({nullable: true})
     base64: string;
 
     @Column()
